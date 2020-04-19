@@ -2,7 +2,8 @@
 
 Currently only works with USA and Japan.
 
-![](demo.gif)
+![](demo_murica.gif)
+![](demo_日本.gif)
 
 ### Deployment
 
