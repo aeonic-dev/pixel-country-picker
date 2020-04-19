@@ -2,6 +2,8 @@
 
 Currently only works with USA and Japan.
 
+![](demo.gif)
+
 ### Deployment
 
 - Just open index.html
