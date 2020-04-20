@@ -277,8 +277,19 @@ let flags = [
     "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black",
     "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black",
   ],
+  [  
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
+    "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red"
+  ], 
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania"];
 function validate() {
   a = getArr().map(x => {
     return x == "" ? "white" : x;
