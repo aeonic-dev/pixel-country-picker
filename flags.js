@@ -250,5 +250,27 @@ let flags = [
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red"
   ],
+  [
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","white","white","white","white","white","white","white",
+    "yellow","white","white","white","white","white","white","white","white","white","white","white","white","yellow",
+    "yellow","yellow","yellow","yellow","white","white","white","white","white","white","white","white","white","white",
+    "white","yellow","white","yellow","white","white","white","white","white","white","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black"
+  ],
+  [
+    "red","red","red","red","white","white","white","white","white","white","white","red","red","red","red",
+    "red","red","red","red","white","white","white","red","white","white","white","red","red","red","red","red",
+    "red","red","red","white","white","red","red","red","white","white","red","red","red","red","red","red",
+    "red","red","white","white","red","red","red","white","white","red","red","red","red","red","red","red",
+    "red","white","red","red","red","red","red","white","red","red","red","red","red","red","red","red","white",
+    "white","red","red","red","white","white","red","red","red","red","red","red","red","red","white","white",
+    "white","red","white","white","white","red","red","red","red","red","red","red","red","white","white",
+    "white","red","white","white","white","red","red","red","red","red","red","red","red","white","white",
+    "white","white","white","white","white","red","red","red","red"
+  ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada"];
