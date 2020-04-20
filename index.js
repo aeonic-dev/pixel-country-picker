@@ -310,9 +310,32 @@ let flags = [
     "white",
     "white",
     "white"
-  ]
+  ],
+[
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+"white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+"white","white","white","white","white","white","white","yellow","white","white","white","white","white","white","white",
+"white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue"
+],
+
+[
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
+"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red"
+]
 ];
-let flagnames = ["USA", "Japan"];
+let flagnames = ["USA", "Japan", "Argentina", "France"];
 function validate() {
   a = getArr().map(x => {
     return x == "" ? "white" : x;
@@ -323,7 +346,7 @@ function validate() {
         flags[i].map(x => {
           return x == "" ? "white" : x;
         })
-      ) == JSON.stringify(a)
+      ) == JSON.stringify(a.map(x => x.replace(" none repeat scroll 0% 0%", "")))
     ) {
       return flagnames[i];
     }

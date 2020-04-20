@@ -1,0 +1,56 @@
+#flag {
+    width: 300px;
+    height: 180px;
+    border: 2px solid black;
+    display: inline-block;
+}
+* {
+    user-select: none;
+}
+.pixel {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+#colselect {
+    display: inline-block;
+    border: 2px solid black;
+    width: 20px;
+    height: 180px;
+}
+#colselect span {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+/* setting colors in js didnt work so I produced this shitshow */
+#orange {
+    background: orange!important;
+}
+#yellow {
+    background: yellow!important;
+}
+#green {
+    background: forestgreen!important;
+}
+#blue {
+    background: blue!important;
+}
+#indigo {
+    background: indigo!important;
+}
+#violet {
+    background: violet!important;
+}
+#white {
+    background: white!important;
+}
+#black {
+    background: black!important;
+}
