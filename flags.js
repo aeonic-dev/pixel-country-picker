@@ -250,5 +250,53 @@ let flags = [
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red"
   ],
+  [
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white"
+  ],
+  [
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green"
+  ],
+  [
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white"
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white"
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+  ],
+  [
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
+    "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+    "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+    "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+    "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white"
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red"
+  ],
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania"];
+let flagnames = [
+  "USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland",
+  "Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania",
+  "Indonesia", "Lybia", "Poland", "Thailand"
+];
