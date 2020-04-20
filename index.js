@@ -311,17 +311,6 @@ let flags = [
     "white",
     "white"
   ],
-      [
-    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
-    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
-    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
-    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
-    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
-    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
-    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
-    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
-    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow"
-  ],
   [
     "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
     "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
@@ -343,6 +332,17 @@ let flags = [
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red"
+  ],
+  [
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow"
   ],
   [
     "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
@@ -387,9 +387,20 @@ let flags = [
     "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
     "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
     "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+  ],
+  [
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia"];
 function validate() {
   a = getArr().map(x => {
     return x == "" ? "white" : x;
