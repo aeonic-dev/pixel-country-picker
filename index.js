@@ -334,6 +334,17 @@ let flags = [
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red"
   ],
   [
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "black","black","black","black","black","black","black","black","black","black","black","black","black","black","black",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow"
+  ],
+  [
     "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
     "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
     "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
@@ -389,7 +400,7 @@ let flags = [
     "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Denmark", "Sweden", "Norway", "Finland","Russia"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia"];
 function validate() {
   a = getArr().map(x => {
     return x == "" ? "white" : x;
