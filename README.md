@@ -5,8 +5,9 @@
 
 ### Deployment
 
-- Just open index.html
-- [Live preview](http://flags.query.design/)
+- Open index.html
+- Or use the [live preview](http://flags.query.design/)
+- [List of flags](http://flags.query.design/list-flags/index.html)
 
 ### Contribution
 
