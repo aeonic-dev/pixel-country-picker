@@ -261,9 +261,20 @@ let flags = [
     "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
     "white","white","white","white","white","white","white","white","white","white","white","white","white","white","white"
   ],
+  [
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green","green","green"
+  ],
 ];
 let flagnames = [
   "USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland",
   "Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania",
-  "Indonesia"
+  "Indonesia", "Lybia"
 ];
