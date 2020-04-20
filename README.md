@@ -1,7 +1,5 @@
 # Pixel Country Picker
 
-Currently only works with USA and Japan.
-
 ![](demo_murica.gif)
 ![](demo_日本.gif)
 
