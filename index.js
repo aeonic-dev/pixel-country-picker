@@ -311,31 +311,74 @@ let flags = [
     "white",
     "white"
   ],
-[
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
-"white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
-"white","white","white","white","white","white","white","yellow","white","white","white","white","white","white","white",
-"white","white","white","white","white","white","white","white","white","white","white","white","white","white","white",
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
-"blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue"
-],
-
-[
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red",
-"blue","blue","blue","blue","blue","white","white","white","white","white","red","red","red","red","red"
-]
+  [
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "yellow", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"
+  ],
+  [
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
+    "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red"
+  ],
+  [
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "red", "white", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+  ],
+  [
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "yellow", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+  ],
+  [
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+    "white", "white", "white", "white", "white", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "white", "white", "white", "white", "white", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+    "red", "red", "red", "red", "white", "blue", "white", "red", "red", "red", "red", "red", "red", "red", "red",
+  ],
+  [
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "blue", "blue", "blue", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+  ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Denmark", "Sweden", "Norway", "Finland"];
 function validate() {
   a = getArr().map(x => {
     return x == "" ? "white" : x;
