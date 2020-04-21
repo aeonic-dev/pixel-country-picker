@@ -282,6 +282,45 @@ let flags = [
     "blue","blue","white","white","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
     "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","white","blue","blue","blue","blue",
     "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue"
+  ],
+  [
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
+    "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","blue","blue","blue",
+    "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue",
+    "blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","blue","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+    "red","red","red","red","red","red","red","red","red","red","red","red"
+  ],
+  [
+    "red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","green","green","green",
+    "green","green","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","green",
+    "green","green","green","green","red","red","red","red","red","yellow","yellow","yellow","yellow",
+    "yellow","green","green","green","green","green","red","red","red","red","red","yellow","yellow",
+    "yellow","yellow","yellow","green","green","green","green","green","red","red","red","red","red",
+    "yellow","yellow","yellow","yellow","yellow","green","green","green","green","green","red","red",
+    "red","red","red","yellow","yellow","yellow","yellow","yellow","green","green","green","green",
+    "green","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","green","green",
+    "green","green","green","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow",
+    "green","green","green","green","green","red","red","red","red","red","yellow","yellow","yellow",
+    "yellow","yellow","green","green","green","green","green"
+  ],
+  [
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","red","red","green","green","green","green",
+    "green","green","green","green","green","green","green","green","red","red","red","red","green","green",
+    "green","green","green","green","green","green","green","green","green","red","red","red","red","green",
+    "green","green","green","green","green","green","green","green","green","green","green","red","red",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green","green","green","green","green","green","green","green","green","green","green",
+    "green","green","green"
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada", "Australia"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh"];
