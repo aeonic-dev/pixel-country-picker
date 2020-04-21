@@ -2,7 +2,7 @@ x = 15;
 y = 9;
 fi = -1;
 flagNodes = document.querySelector('.flags');
-for (i = 0; i < flags.length - 1; i++) {
+for (i = 0; i <= flags.length - 1; i++) {
   flagNodes.appendChild(document.createElement('div')).classList.add('flag');
   flagNodes.appendChild(document.createElement('p')).innerHTML=flagnames[i];
   flagNodes.appendChild(document.createElement('br'));
