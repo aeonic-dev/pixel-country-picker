@@ -13,8 +13,3 @@
 
 - Use get-pixel-array-tool to get flag arrays
 - Create a pr adding your array to index.js
-
-### Credits
-
-- Creator: https://www.reddit.com/user/enwash/
-- Original Link: https://codepen.io/enwash/pen/dyYXawZ
