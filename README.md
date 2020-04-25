@@ -12,7 +12,7 @@
 ### Contribution
 
 - Use get-pixel-array-tool to get flag arrays
-- Create a pr adding your array to flags.js
+- Create a PR adding your array to flags.js
 
 ### Credits
 
