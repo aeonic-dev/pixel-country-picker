@@ -321,6 +321,17 @@ let flags = [
     "green","green","green","green","green","green","green","green","green","green","green","green","green",
     "green","green","green","green","green","green","green","green","green","green","green","green","green",
     "green","green","green"
+  ],
+  [
+    "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "green", "white", "green", "green", "white", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "white", "green", "green", "green", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "white", "green", "green", "green", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "white", "white", "green", "green", "white", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "green", "white", "white", "white", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", 
+    "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green"
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh", "Pakistan"];
