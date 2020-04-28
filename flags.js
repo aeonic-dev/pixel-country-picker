@@ -185,61 +185,6 @@ let flags = [
     "green","green","green","green","green","green","green","green","green","green","green","green"
   ],
   [
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-  ],
-  [
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "black", "black", "black", "black", "black", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red"
-  ],
-  [
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
-    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
-    "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
-    "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange",
-    "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange",
-    "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange", "orange",
-  ],
-  [
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red",
-    "green", "green", "green", "green", "green", "yellow", "yellow", "yellow", "yellow", "yellow", "red", "red", "red", "red", "red"
-  ],
-  [
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
-    "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black",
-    "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black",
-    "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black",
-  ],
-  [
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
     "blue","blue","blue","blue","blue","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red",
@@ -332,6 +277,27 @@ let flags = [
     "white", "white", "white", "green", "green", "green", "green", "green", "white", "white", "white", "green", "green", "green", "green", 
     "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", 
     "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green"
+  ],
+  [
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
+  "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white"
+  ],
+  ["red","red","white","blue","blue","blue","white","red","white","blue","blue","blue","white","red","red",
+  "blue","white","red","red","white","blue","white","red","white","blue","white","red","red","white","blue",
+  "blue","blue","blue","white","red","red","white","red","white","red","red","white","blue","blue","blue",
+  "white","white","white","white","white","white","red","red","red","white","white","white","white","white","white",
+  "red","red","red","red","red","red","red","red","red","red","red","red","red","red","red",
+  "white","white","white","white","white","white","red","red","red","white","white","white","white","white","white",
+  "blue","blue","blue","white","red","red","white","red","white","red","red","white","blue","blue","blue",
+  "blue","white","red","red","white","blue","white","red","white","blue","white","red","red","white","blue",
+  "red","red","white","blue","blue","blue","white","red","white","blue","blue","blue","white","red","red"
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Brazil", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Romania", "", "", "", "", "", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh", "Pakistan"];
+let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Brazil", "Romania", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh", "Pakistan", "England", "UK"];
