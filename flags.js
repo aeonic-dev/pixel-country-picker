@@ -304,6 +304,17 @@ let flags = [
     "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy"
   ],
   [
+    "red","red","white","red","white","red","red","navy","navy","navy","navy","navy","navy","navy","navy",
+    "white","red","red","red","red","red","white","navy","navy","navy","navy","red","navy","navy","navy",
+    "white","red","red","red","red","red","white","navy","navy","navy","navy","navy","navy","navy","navy",
+    "red","red","white","red","white","red","red","navy","navy","red","navy","navy","navy","navy","navy","navy",
+    "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","red","navy","navy",
+    "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy",
+    "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy",
+    "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","red","navy","navy","navy","navy",
+    "navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy","navy"
+  ],
+  [
     "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
     "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
     "yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow",
@@ -353,6 +364,7 @@ let flags = [
     "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", 
     "white", "white", "white", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green", "green"
   ],
+  ["black","black","black","black","black","red","red","red","red","red","green","green","green","green","green","black","black","black","black","black","red","white","white","white","red","green","green","green","green","green","black","black","black","black","black","white","red","red","red","white","green","green","green","green","green","black","black","black","black","white","red","red","white","red","red","white","green","green","green","green","black","black","black","black","white","red","white","white","white","red","white","green","green","green","green","black","black","black","black","white","red","white","white","white","red","white","green","green","green","green","black","black","black","black","black","white","white","white","white","white","green","green","green","green","green","black","black","black","black","black","red","white","white","white","red","green","green","green","green","green","black","black","black","black","black","red","red","red","red","red","green","green","green","green","green"],
   [
   "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
   "white","white","white","white","white","white","white","red","white","white","white","white","white","white","white",
@@ -386,4 +398,4 @@ let flags = [
   ["green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green","green"],
   ["red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","yellow","yellow","yellow","red","yellow","red","red","yellow","yellow","yellow","red","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red","red","red","red","red","red","red","red","yellow","yellow","yellow","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","yellow","yellow","yellow","yellow","yellow","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red"]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "Estonia", "Latvia", "Lithuania", "France", "Germany", "Netherlands", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Austria", "Hungary", "Belgium", "Armenia", "Mali", "Yemen", "Botswana", "Brazil", "Romania", "Chad", "Switzerland", "Egypt", "Canada", "Australia", "Colombia", "Guinea", "Bangladesh", "Pakistan", "England", "UK", "China", "Liberia", "Chile", "Samoa", "Indonesia", "Monaco", "Poland", "Belarus", "Madagascar", "Saudi Arabia", "Roman Empire"];
+let flagnames = ["USA", "Japan", "Argentina", "Estonia", "Latvia", "Lithuania", "France", "Germany", "Netherlands", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Austria", "Hungary", "Belgium", "Armenia", "Mali", "Yemen", "Botswana", "Brazil", "Romania", "Chad", "Switzerland", "Egypt", "Canada", "Australia", "New Zealand", "Colombia", "Guinea", "Bangladesh", "Pakistan", "Afghanistan", "England", "UK", "China", "Liberia", "Chile", "Samoa", "Indonesia", "Monaco", "Poland", "Belarus", "Madagascar", "Saudi Arabia", "Roman Empire"];
