@@ -32,6 +32,17 @@ let flags = [
     "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"
   ],
   [
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo",
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo",
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white", "white",
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo",
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo",
+    "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo", "indigo"
+  ],
+  [
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
     "blue", "blue", "blue", "blue", "blue", "white", "white", "white", "white", "white", "red", "red", "red", "red", "red",
@@ -300,4 +311,4 @@ let flags = [
   "red","red","white","blue","blue","blue","white","red","white","blue","blue","blue","white","red","red"
   ]
 ];
-let flagnames = ["USA", "Japan", "Argentina", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Brazil", "Romania", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh", "Pakistan", "England", "UK"];
+let flagnames = ["USA", "Japan", "Argentina", "Latvia", "France", "Germany", "Denmark", "Sweden", "Norway", "Finland","Russia", "Italy", "Austria", "Belgium", "Armenia", "Mali", "Yemen", "Brazil", "Romania", "Egypt", "Canada", "Australia", "Columbia", "Guinea", "Bangladesh", "Pakistan", "England", "UK"];
