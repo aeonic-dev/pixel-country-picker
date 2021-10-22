@@ -6,8 +6,8 @@
 ### Deployment
 
 - Open index.html
-- Or use the [live preview](http://flags.query.design/)
-- [List of flags](http://flags.query.design/list-flags/index.html)
+- Or use the [live preview](https://aeonic-dev.github.io/pixel-country-picker/)
+- [List of flags](https://aeonic-dev.github.io/pixel-country-picker/list-flags/index.html)
 
 ### Contribution
 
